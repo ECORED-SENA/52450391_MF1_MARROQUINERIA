@@ -1,0 +1,205 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al Inicio",
+    "path": "../"
+  },  
+  { 
+    "id": 0,
+    "icon": "fa fa-play-circle",
+    "slug": "tema-1",
+    "title": "0. Introducción",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/1-tema.html"  
+  },
+  {
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "tema-2",
+    "title": "1. Aspectos básicos en marroquinería.",
+    "breadcrumb": ["Inicio","Tema 2"],
+    "path": "pages/2-tema.html"
+  },
+  {
+    "id": 2,
+    "icon": "fa fa-file-text",
+    "slug": "tema-3",
+    "title": "2. Materiales e insumos utilizados en marroquinería, clases, características.",
+    "breadcrumb": ["Inicio","Tema 3"],
+    "path": "pages/3-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "tema-3",
+        "title": "2.1 Materiales",
+        "anchor": "materiales"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "tema-3",
+        "title": "2.2 Insumos",
+        "anchor": "insumos"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "icon": "fa fa-file-text",
+    "slug": "tema-4",
+    "title": "3. Materiales para la elaboración de moldes, tipos, características.",
+    "breadcrumb": ["Inicio","Tema 3"],
+    "path": "pages/4-tema.html"
+  },
+  {
+    "id": 4,
+    "icon": "fa fa-file-text",
+    "slug": "tema-5",
+    "title": "4. Conceptos básicos de diseño para marroquinería.",
+    "breadcrumb": ["Inicio","Tema 3"],
+    "path": "pages/5-tema.html"
+  },
+  {
+    "id": 7,
+    "icon": "fa fa-play-circle",
+    "slug": "tema-8",
+    "title": "x. Componentes",
+    "breadcrumb": ["Inicio","Componentes"],
+    "path": "pages/x-componentes.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "tema-8",
+        "title": "Títulos",
+        "anchor": "titulos"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "tema-8",
+        "title": "Típografía",
+        "anchor": "tipografia"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "tema-8",
+        "title": "Cards",
+        "anchor": "card"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "tema-8",
+        "title": "Card border",
+        "anchor": "cardborder"
+      },     
+      {
+        "icon": "fa fa-file-text",
+        "slug": "tema-8",
+        "title": "Header Step",
+        "anchor": "headerstep"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "tema-8",
+        "title": "Card + Imagen",
+        "anchor": "cardimagen"
+      },    
+      {
+        "icon": "fa fa-file-text",
+        "slug": "tema-8",
+        "title": "Card + Video",
+        "anchor": "cardvideo"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "tema-8",
+        "title": "Header Fluido",
+        "anchor": "headerfluid"
+      },      
+      {
+        "icon": "fa fa-file-text",
+        "slug": "tema-8",
+        "title": "Header Arrow",
+        "anchor": "headerarrow"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "tema-8",
+        "title": "Jumbotron",
+        "anchor": "jumbotron"
+      },    
+      {
+        "icon": "fa fa-file-text",
+        "slug": "tema-8",
+        "title": "Card Avatar Top",
+        "anchor": "cardavatartop"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "tema-8",
+        "title": "Card Avatar Left",
+        "anchor": "cardavatarleft"
+      },    
+      {
+        "icon": "fa fa-file-text",
+        "slug": "tema-8",
+        "title": "Botón enlace a recursos externos",
+        "anchor": "medialink"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "tema-8",
+        "title": "Question Header",
+        "anchor": "question"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "tema-8",
+        "title": "Nav Tab",
+        "anchor": "tabsecored"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "tema-8",
+        "title": "Galería",
+        "anchor": "gallery"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "tema-8",
+        "title": "Navs Bootstrap",
+        "anchor": "bscomponentes"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "tema-8",
+        "title": "Header + Nav",
+        "anchor": "buttonav"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "tema-8",
+        "title": "Collapsable",
+        "anchor": "collapsable"
+      },     
+      {
+        "icon": "fa fa-file-text",
+        "slug": "tema-8",
+        "title": "Slider",
+        "anchor": "slider"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "tema-8",
+        "title": "Tables",
+        "anchor": "tables"
+      },      
+      {
+        "icon": "fa fa-file-text",
+        "slug": "tema-8",
+        "title": "Lists",
+        "anchor": "lists"
+      }      
+    ] 
+  }
+
+]
