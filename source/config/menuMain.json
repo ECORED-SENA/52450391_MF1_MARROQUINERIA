@@ -8,15 +8,15 @@
   { 
     "id": 0,
     "icon": "fa fa-play-circle",
-    "slug": "tema-1",
-    "title": "0. Introducción",
-    "breadcrumb": ["Inicio","Introducción"],
+    "slug": "intruduccion",
+    "title": "Introducción",
+    "breadcrumb": ["Inicio","Tema 1"],
     "path": "pages/1-tema.html"  
   },
   {
     "id": 1,
     "icon": "fa fa-file-text",
-    "slug": "tema-2",
+    "slug": "aspectos",
     "title": "1. Aspectos básicos en marroquinería.",
     "breadcrumb": ["Inicio","Tema 2"],
     "path": "pages/2-tema.html"
@@ -24,20 +24,20 @@
   {
     "id": 2,
     "icon": "fa fa-file-text",
-    "slug": "tema-3",
+    "slug": "materiales",
     "title": "2. Materiales e insumos utilizados en marroquinería, clases, características.",
     "breadcrumb": ["Inicio","Tema 3"],
     "path": "pages/3-tema.html",
     "submenu": [
       {
         "icon": "fa fa-file-text",
-        "slug": "tema-3",
+        "slug": "materiales",
         "title": "2.1 Materiales",
         "anchor": "materiales"
       },
       {
         "icon": "fa fa-file-text",
-        "slug": "tema-3",
+        "slug": "materiales",
         "title": "2.2 Insumos",
         "anchor": "insumos"
       }
@@ -46,160 +46,89 @@
   {
     "id": 3,
     "icon": "fa fa-file-text",
-    "slug": "tema-4",
+    "slug": "materiales2",
     "title": "3. Materiales para la elaboración de moldes, tipos, características.",
-    "breadcrumb": ["Inicio","Tema 3"],
+    "breadcrumb": ["Inicio","Tema 4"],
     "path": "pages/4-tema.html"
   },
   {
     "id": 4,
     "icon": "fa fa-file-text",
-    "slug": "tema-5",
+    "slug": "conceptos",
     "title": "4. Conceptos básicos de diseño para marroquinería.",
-    "breadcrumb": ["Inicio","Tema 3"],
-    "path": "pages/5-tema.html"
-  },
-  {
-    "id": 7,
-    "icon": "fa fa-play-circle",
-    "slug": "tema-8",
-    "title": "x. Componentes",
-    "breadcrumb": ["Inicio","Componentes"],
-    "path": "pages/x-componentes.html",
+    "breadcrumb": ["Inicio","Tema 5"],
+    "path": "pages/5-tema.html",
     "submenu": [
       {
         "icon": "fa fa-file-text",
-        "slug": "tema-8",
-        "title": "Títulos",
-        "anchor": "titulos"
-      },   
-      {
-        "icon": "fa fa-file-text",
-        "slug": "tema-8",
-        "title": "Típografía",
-        "anchor": "tipografia"
+        "slug": "conceptos",
+        "title": "4.1 Realizar Investigación",
+        "anchor": "investigacion"
       },
       {
         "icon": "fa fa-file-text",
-        "slug": "tema-8",
-        "title": "Cards",
-        "anchor": "card"
+        "slug": "conceptos",
+        "title": "4.2 Generar alternativas",
+        "anchor": "alternativas"
       },
       {
         "icon": "fa fa-file-text",
-        "slug": "tema-8",
-        "title": "Card border",
-        "anchor": "cardborder"
-      },     
-      {
-        "icon": "fa fa-file-text",
-        "slug": "tema-8",
-        "title": "Header Step",
-        "anchor": "headerstep"
+        "slug": "conceptos",
+        "title": "4.3 Seleccionar las alternativas de diseño",
+        "anchor": "tipos"
       },
       {
         "icon": "fa fa-file-text",
-        "slug": "tema-8",
-        "title": "Card + Imagen",
-        "anchor": "cardimagen"
-      },    
-      {
-        "icon": "fa fa-file-text",
-        "slug": "tema-8",
-        "title": "Card + Video",
-        "anchor": "cardvideo"
+        "slug": "conceptos",
+        "title": "4.4 Evaluar las alternativas de acuerdo con los requerimientos de diseño",
+        "anchor": "evaluar"
       },
       {
         "icon": "fa fa-file-text",
-        "slug": "tema-8",
-        "title": "Header Fluido",
-        "anchor": "headerfluid"
-      },      
-      {
-        "icon": "fa fa-file-text",
-        "slug": "tema-8",
-        "title": "Header Arrow",
-        "anchor": "headerarrow"
+        "slug": "conceptos",
+        "title": "4.5 Evaluar el proceso productivo de acuerdo con el producto a desarrollar",
+        "anchor": "desarrollar"
       },
       {
         "icon": "fa fa-file-text",
-        "slug": "tema-8",
-        "title": "Jumbotron",
-        "anchor": "jumbotron"
-      },    
-      {
-        "icon": "fa fa-file-text",
-        "slug": "tema-8",
-        "title": "Card Avatar Top",
-        "anchor": "cardavatartop"
+        "slug": "conceptos",
+        "title": "4.6 Estandarizar el producto",
+        "anchor": "producto"
       },
       {
         "icon": "fa fa-file-text",
-        "slug": "tema-8",
-        "title": "Card Avatar Left",
-        "anchor": "cardavatarleft"
-      },    
-      {
-        "icon": "fa fa-file-text",
-        "slug": "tema-8",
-        "title": "Botón enlace a recursos externos",
-        "anchor": "medialink"
+        "slug": "conceptos",
+        "title": "4.7 Desarrollar moldes del producto",
+        "anchor": "moldes"
       },
       {
         "icon": "fa fa-file-text",
-        "slug": "tema-8",
-        "title": "Question Header",
-        "anchor": "question"
+        "slug": "conceptos",
+        "title": "4.8 Desarrollo del producto o prototipo",
+        "anchor": "prototipo"
       },
       {
         "icon": "fa fa-file-text",
-        "slug": "tema-8",
-        "title": "Nav Tab",
-        "anchor": "tabsecored"
-      },   
-      {
-        "icon": "fa fa-file-text",
-        "slug": "tema-8",
-        "title": "Galería",
-        "anchor": "gallery"
-      },
-      {
-        "icon": "fa fa-file-text",
-        "slug": "tema-8",
-        "title": "Navs Bootstrap",
-        "anchor": "bscomponentes"
-      },   
-      {
-        "icon": "fa fa-file-text",
-        "slug": "tema-8",
-        "title": "Header + Nav",
-        "anchor": "buttonav"
-      },
-      {
-        "icon": "fa fa-file-text",
-        "slug": "tema-8",
-        "title": "Collapsable",
-        "anchor": "collapsable"
-      },     
-      {
-        "icon": "fa fa-file-text",
-        "slug": "tema-8",
-        "title": "Slider",
-        "anchor": "slider"
-      },
-      {
-        "icon": "fa fa-file-text",
-        "slug": "tema-8",
-        "title": "Tables",
-        "anchor": "tables"
-      },      
-      {
-        "icon": "fa fa-file-text",
-        "slug": "tema-8",
-        "title": "Lists",
-        "anchor": "lists"
-      }      
-    ] 
+        "slug": "conceptos",
+        "title": "4.9 Evaluación del producto o prototipo",
+        "anchor": "prototipo2"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "icon": "fa fa-file-text",
+    "slug": "manejo",
+    "title": "5. Manejo e interpretación de la información, documentos, bocetos, revistas, catálogos.",
+    "breadcrumb": ["Inicio","Tema 6"],
+    "path": "pages/6-tema.html"
+  },
+  {
+    "id": 6,
+    "icon": "fa fa-file-text",
+    "slug": "manejo2",
+    "title": "5. Manejo e interpretación de la información, documentos, bocetos, revistas, catálogos.",
+    "breadcrumb": ["Inicio","Tema 7"],
+    "path": "pages/7-tema.html"
   }
-
 ]
