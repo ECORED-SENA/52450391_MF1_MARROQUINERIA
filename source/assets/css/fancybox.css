@@ -467,9 +467,9 @@ body.compensate-for-scrollbar {
         rgba(0, 0, 0, .037) 82.85%,
         rgba(0, 0, 0, .019) 88%,
         rgba(0, 0, 0, 0) 100%);
-    bottom: 0;
+    bottom: 50px;
     color: #eee;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 400;
     left: 0;
     line-height: 1.5;

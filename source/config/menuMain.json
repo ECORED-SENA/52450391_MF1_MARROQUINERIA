@@ -8,7 +8,7 @@
   { 
     "id": 0,
     "icon": "fa fa-play-circle",
-    "slug": "intruduccion",
+    "slug": "introduccion",
     "title": "Introducción",
     "breadcrumb": ["Inicio","Tema 1"],
     "path": "pages/1-tema.html"  
